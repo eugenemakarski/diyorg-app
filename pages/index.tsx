@@ -7,8 +7,7 @@ export default function Home() {
         <title>DIYORG</title>
         <meta name="keywords" content="workout plan" />
       </Head>
-
-      <h1 className="text-3xl font-bold underline">NEXT.JS!</h1>
+      <h1 className="text-3xl font-bold underline">Hello world!</h1>{" "}
     </div>
   );
 }
